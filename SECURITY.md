@@ -17,6 +17,6 @@ please report it privately before opening a public issue.
 
 **Contact**: Open a private security advisory via
 [GitHub Security Advisories](https://github.com/arturseo-geo/ebook-publishing-skill/security/advisories/new)
-or reach out directly via [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab).
+or email **artur@thegeolab.net**, or reach out via [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab).
 
 We aim to address valid reports within 48 hours.

@@ -1,7 +1,6 @@
 # ebook-publishing-skill
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** · Part of the **[The GEO Lab](https://thegeolab.net)** toolkit · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
@@ -115,7 +114,7 @@ Use the issue templates for:
 
 ## Attributions & Licence
 
-Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**.
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** · Part of the **[The GEO Lab](https://thegeolab.net)** toolkit.
 
 ---
 
@@ -180,3 +179,7 @@ Platforms: Amazon KDP, Apple Books, Gumroad, Payhip, Draft2Digital, Kobo, B&N Pr
 ## Licence
 
 MIT — see LICENSE
+
+---
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** · Part of the **[The GEO Lab](https://thegeolab.net)** toolkit · [MIT License](LICENSE)
